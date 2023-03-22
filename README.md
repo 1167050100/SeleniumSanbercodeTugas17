@@ -1,2 +1,2 @@
-# SeleniumSanbercodeTugas17
-Automation using selenium dummy website https://www.saucedemo.com/
+# Selenium-Pyhton
+Automation using selenium web driver dummy website https://www.saucedemo.com/
